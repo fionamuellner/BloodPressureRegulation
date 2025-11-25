@@ -1,5 +1,3 @@
-BloodPressureRegulation
-
 This is a simple model for blood pressure regulation by sympathicus, parasympathicus and baroreceptor reflex.
 
 To run this model, open a jupyter notebook in your browser: https://jupyter.org/try-jupyter/lab/
